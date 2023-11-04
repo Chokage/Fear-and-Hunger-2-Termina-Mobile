@@ -27,9 +27,9 @@ Currently, the game supports Version 1.9.1
 ## **Installation Guide and Tutorial**
 <br />
 
-[![Link Displaying the Guide's Youtube address](http://img.youtube.com/vi/NqM0E9SFE6U/0.jpg)](http://www.youtube.com/watch?v=NqM0E9SFE6U "How to play Fear and Hunger on your Phone [Guide to playing on Android without an Emulator]")
+[![Link Displaying the Guide's Youtube address](https://i.ytimg.com/vi/BZYVMee8U0A/hqdefault.jpg)]([http://www.youtube.com/watch?v=NqM0E9SFE6U](https://www.youtube.com/watch?v=BZYVMee8U0A) "How to play Fear and Hunger on your Phone [Guide to playing on Android without an Emulator]")
 
-[Direct Link to Guide](http://www.youtube.com/watch?v=NqM0E9SFE6U)
+[Direct Link to Guide](https://www.youtube.com/watch?v=BZYVMee8U0A)
 <br />
 <br />
 <br />
