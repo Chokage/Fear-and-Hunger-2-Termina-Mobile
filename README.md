@@ -3,6 +3,7 @@
 ## **Description:**
 
 A Mobile port for Fear and Hunger: Termina that runs without an emulator.
+
 Essentially Fear and Hunger 2: Termina for Mobile. 
  
  
@@ -17,7 +18,7 @@ Essentially Fear and Hunger 2: Termina for Mobile.
 
 The game files and settings have been reworked to run on Android.
 
-Currently, the game supports Version 1.4.1 
+Currently, the game supports Version 1.9.1 
  <br />
  <br />
  <br />
